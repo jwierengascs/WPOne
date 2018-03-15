@@ -1,0 +1,11 @@
+ /*
+ Theme Name: Twenty Seventeen Child
+ Description: The custom theme Twenty Seventeen Child using the parent theme Twenty Seventeen.
+ Author: John Wierenga
+ Author URI: https://johnwierenga.com
+ Template: twentyseventeen
+ Version: 1
+ */
+h2.page-title{
+	display: none;
+}
